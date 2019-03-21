@@ -1,0 +1,20 @@
+{
+    "maqueen.aMotors.M1|block": "ひだりがわ",
+    "maqueen.aMotors.M2|block": "みぎがわ",
+    "maqueen.Patrol.PatrolLeft|block": "ひだりがわ",
+    "maqueen.Patrol.PatrolRight|block": "みぎがわ",
+    "maqueen.LEDswitch.turnOn|block": "ひかる",
+    "maqueen.LEDswitch.turnOff|block": "きえる",
+    "maqueen.LED.LEDLeft|block": "ひだりがわ",
+    "maqueen.LED.LEDRight|block": "みぎがわ",
+    "maqueen.Dir.CW|block": "とけいまわり",
+    "maqueen.Dir.CCW|block": "はんとけいまわり",
+    "maqueen.motorStop|block": "ろぼっとがとまる|%motors",
+    "maqueen.motorStopAll|block": "ろぼっとがとまる",
+    "maqueen.MotorRun|block": "もーたの|%index|まわるほうこう|%Dir|はやさ|%speed",
+    "maqueen.IR_callbackUser|block": "せきがいせん",
+    "maqueen.sensor|block": "ちょうおんぱセンサきょり|%unit",
+    "maqueen.readPatrol|block": "なんだろう|%patrol",
+    "maqueen.writeLED|block": "ＬＥＤ|%led,|%ledswitch",
+    "maqueen.IR_read|block": "せきがいせんセンサ"
+}
